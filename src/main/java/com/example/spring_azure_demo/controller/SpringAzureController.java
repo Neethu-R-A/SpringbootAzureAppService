@@ -12,7 +12,7 @@ public class SpringAzureController {
 
 	@GetMapping("/azure")
 	public String welcomeToAzure() {
-		return "Welcome to Azureeee !!";
+		return "Welcome toooo Azureeee !!";
 	}
 
 }
